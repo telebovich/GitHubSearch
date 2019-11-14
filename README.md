@@ -10,7 +10,7 @@ Author: Tzvi Lebovich
 
 ## Running the project
 
-This project was built in Visual Studio. Running in debug mode or without will be enaugh. Or type
+This project was built in Visual Studio. Running in debug mode or without will be enough. Or type
 
 ```
 dotnet run
