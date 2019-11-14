@@ -1,0 +1,15 @@
+<ul *ngIf="result.length > 0" class="list-unstyled">
+  <li *ngFor="let item of result">
+    <div class="row mb-2">
+      <div class="col-1">
+        <img [src]="item.ownerAvatarUrl" class="img w-100" />
+      </div>
+      <div class="col-6">
+        <a [href]='item.htmlUrl'>{{ item.name }}</a>
+      </div>
+      <div>
+        <button (click)="remove(item);" class="btn btn-danger">Remove</button>
+      </div>
+    </div>
+  </li>
+</ul>
