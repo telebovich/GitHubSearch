@@ -1,7 +1,7 @@
 # GitHubSearch
 Submission for Isracard
 
-Author: Tzvi Lebovich
+Author: Tzvi Leybovych
 
 ## Prerequisites
 
