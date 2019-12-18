@@ -1,5 +1,4 @@
 # GitHubSearch
-Submission for Isracard
 
 Author: Tzvi Leybovych
 
